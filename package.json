@@ -1,0 +1,13 @@
+{
+  "name": "@hartmane/react-etable",
+  "description": "Wrapper for the BootstrapTable component",
+  "version": "0.1.0",
+  "author": "hartman.eyal",
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "react-bootstrap": "^2.7.0",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-bootstrap-table2-paginator": "^2.1.2",
+    "react-bootstrap-table2-toolkit": "^2.1.3"
+  }
+}
